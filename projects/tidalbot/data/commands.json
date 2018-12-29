@@ -1,0 +1,506 @@
+[
+  {
+    "name": "youtubesearch",
+    "type": "Normal",
+    "usage": "youtubesearch <arg:string>",
+    "action": "Searches YouTube and returns back a queue."
+  },
+  {
+    "name": "play",
+    "type": "Music",
+    "usage": "play <track url> OR play <search query>",
+    "action": "Plays a track from a url or query."
+  },
+  {
+    "name": "summon",
+    "type": "Bc",
+    "usage": "summon",
+    "action": "Summon the bot to the voice channel you are currently in."
+  },
+  {
+    "name": "splayrand",
+    "type": "Music",
+    "usage": "splayrand <arg:string>",
+    "action": "Searches and plays random track from a YouTube search query."
+  },
+  {
+    "name": "poll",
+    "type": "Normal",
+    "usage": "poll <arg:string>",
+    "action": "Ask a 2 option poll."
+  },
+  {
+    "name": "disabledcommands",
+    "type": "Normal",
+    "usage": "disabledcommands",
+    "action": "View all currently disabled commands in the server."
+  },
+  {
+    "name": "translate",
+    "type": "Normal",
+    "usage": "translate <arg:language-code>",
+    "action": "Translate text to another language."
+  },
+  {
+    "name": "qrcodecreate",
+    "type": "Normal",
+    "usage": "qrcodecreate <arg:string>",
+    "action": "Create a QR code."
+  },
+  {
+    "name": "listbots",
+    "type": "Normal",
+    "usage": "listbots",
+    "action": "Lists all the bots in the current guild."
+  },
+  {
+    "name": "mixeruser",
+    "type": "Normal",
+    "usage": "mixeruser <arg:string>",
+    "action": "Get information about a user on Mixer."
+  },
+  {
+    "name": "numtoword",
+    "type": "Normal",
+    "usage": "numtoword <arg:int>",
+    "action": "Coverts a number to words."
+  },
+  {
+    "name": "bark",
+    "type": "Normal",
+    "usage": "bark",
+    "action": "Bark, bark, bark."
+  },
+  {
+    "name": "leave",
+    "type": "Owner",
+    "usage": "leave",
+    "action": "Will make the bot leave the current Discord guild."
+  },
+  {
+    "name": "youtubeuser",
+    "type": "Normal",
+    "usage": "youtubeuser <arg:string>",
+    "action": "Get information about a user on YouTube."
+  },
+  {
+    "name": "splayremix",
+    "type": "Music",
+    "usage": "splayremix <arg:string>",
+    "action": "Searches and plays first remix of a track from a YouTube search query."
+  },
+  {
+    "name": "serverinvite",
+    "type": "Normal",
+    "usage": "serverinvite",
+    "action": "Get a link so you can invite Tidal Bot to your server."
+  },
+  {
+    "name": "pastebin",
+    "type": "Normal",
+    "usage": "pastebin <arg:string>",
+    "action": "Fetch data from a Pastebin."
+  },
+  {
+    "name": "togglemusic",
+    "type": "Bc",
+    "usage": "togglemusic <arg:string>",
+    "action": "Will toggle a user's ability to use the music commands."
+  },
+  {
+    "name": "addcommand",
+    "type": "Bc",
+    "usage": "addcommand <arg:string-command name> <arg:string-message>",
+    "action": "Add a custom command for your server."
+  },
+  {
+    "name": "viewconfig",
+    "type": "Bc",
+    "usage": "viewconfig <arg-string>",
+    "action": "Will show the current configuration file of the server."
+  },
+  {
+    "name": "playnext",
+    "type": "Music",
+    "usage": "playnext <keyword - in queue>",
+    "action": "Make a track play next in the queue by keyword."
+  },
+  {
+    "name": "listcommanders",
+    "type": "Bc",
+    "usage": "listcommanders",
+    "action": "Shows all bot commanders."
+  },
+  {
+    "name": "togglecommand",
+    "type": "Bc",
+    "usage": "togglecommand <arg:string>",
+    "action": "Toggle the ability to use a command."
+  },
+  {
+    "name": "getdemservs",
+    "type": "Owner",
+    "usage": "getdemservs",
+    "action": "List all Guilds the bot is connected to."
+  },
+  {
+    "name": "editcommand",
+    "type": "Bc",
+    "usage": "editcommand <arg:string-command name> <arg:string-message>",
+    "action": "Edit a custom command that was previously added."
+  },
+  {
+    "name": "coinflip",
+    "type": "Normal",
+    "usage": "coinflip",
+    "action": "Flip an imaginary coin."
+  },
+  {
+    "name": "fizzbuzz",
+    "type": "Normal",
+    "usage": "fizzbuzz <arg:int>",
+    "action": "Fizzbuzz!"
+  },
+  {
+    "name": "patreon",
+    "type": "Normal",
+    "usage": "patreon",
+    "action": "Support MiningMark48 on Patreon! ...or not."
+  },
+  {
+    "name": "togglenpmessages",
+    "type": "Bc",
+    "usage": "togglenpmessages",
+    "action": "Toggles Tidal Bot's now playing messages when a track plays."
+  },
+  {
+    "name": "announce",
+    "type": "Bc",
+    "usage": "announce <arg:string>",
+    "action": "Announces a message to the channel."
+  },
+  {
+    "name": "tobinary",
+    "type": "Normal",
+    "usage": "tobinary <arg:int>",
+    "action": "Convert a number to binary."
+  },
+  {
+    "name": "splay",
+    "type": "Music",
+    "usage": "splay <arg:string>",
+    "action": "Searches and plays first track from a YouTube search query."
+  },
+  {
+    "name": "pause",
+    "type": "Music",
+    "usage": "pause",
+    "action": "Pauses the current track."
+  },
+  {
+    "name": "stop",
+    "type": "Music",
+    "usage": "stop",
+    "action": "Stops currently playing track and clears the queue."
+  },
+  {
+    "name": "repeatonce",
+    "type": "Music",
+    "usage": "repeatonce",
+    "action": "Repeat currently playing track once. Run again to disable."
+  },
+  {
+    "name": "botstats",
+    "type": "Normal",
+    "usage": "botstats",
+    "action": "Returns bot stats."
+  },
+  {
+    "name": "twitchuser",
+    "type": "Normal",
+    "usage": "twitchuser <arg:string>",
+    "action": "Get information about a user on Twitch."
+  },
+  {
+    "name": "diceroll",
+    "type": "Normal",
+    "usage": "diceroll [arg:int]",
+    "action": "Rolls an imaginary dice."
+  },
+  {
+    "name": "voteskip",
+    "type": "Music",
+    "usage": "voteskip",
+    "action": "Vote to skip a track."
+  },
+  {
+    "name": "playspotify",
+    "type": "Music",
+    "usage": "playspotify <username>",
+    "action": "Play a track that a user is listening to on Spotify."
+  },
+  {
+    "name": "ping",
+    "type": "Normal",
+    "usage": "ping",
+    "action": "Simple Ping, Pong."
+  },
+  {
+    "name": "roles",
+    "type": "Normal",
+    "usage": "roles",
+    "action": "Get all information about the roles used by Tidal Bot"
+  },
+  {
+    "name": "announceall",
+    "type": "Owner",
+    "usage": "announce <arg:string>",
+    "action": "Announce a message to all servers."
+  },
+  {
+    "name": "skip",
+    "type": "Music",
+    "usage": "skip",
+    "action": "Skip current track."
+  },
+  {
+    "name": "botcommander",
+    "type": "Bc",
+    "usage": "botcommander <arg:string>",
+    "action": "Will add or remove someone as a bot commander for Tidal Bot"
+  },
+  {
+    "name": "remove",
+    "type": "Music",
+    "usage": "remove <keyword - in queue>",
+    "action": "Remove a track in the queue by keyword."
+  },
+  {
+    "name": "sourcecode",
+    "type": "Normal",
+    "usage": "sourcecode",
+    "action": "Get the link for Pearcel Bot source code."
+  },
+  {
+    "name": "undo",
+    "type": "Music",
+    "usage": "undo",
+    "action": "Removes a previously added track."
+  },
+  {
+    "name": "botinfo",
+    "type": "Normal",
+    "usage": "botinfo",
+    "action": "Returns bot information."
+  },
+  {
+    "name": "whois",
+    "type": "Normal",
+    "usage": "whois <string:Username | User ID>",
+    "action": "Get info about a user on the server."
+  },
+  {
+    "name": "cmds",
+    "type": "Normal",
+    "usage": "cmds",
+    "action": "Returns a list of commands."
+  },
+  {
+    "name": "repeat",
+    "type": "Music",
+    "usage": "repeat",
+    "action": "Repeats a currently playing track. Run again to disable."
+  },
+  {
+    "name": "arblacklist",
+    "type": "Normal",
+    "usage": "arblacklist",
+    "action": "Opt-in to be blacklisted from Tidal Bot's AutoResponse system"
+  },
+  {
+    "name": "lyrics",
+    "type": "Music",
+    "usage": "lyrics <artist(string) :: title(string)>",
+    "action": "Search for lyrics for a song by artist and title."
+  },
+  {
+    "name": "cursedata",
+    "type": "Normal",
+    "usage": "cursedata",
+    "action": "Fetch Minecraft Curse data for a user."
+  },
+  {
+    "name": "githubuser",
+    "type": "Normal",
+    "usage": "githubuser <arg:string>",
+    "action": "Get information about a user on Github."
+  },
+  {
+    "name": "resume",
+    "type": "Music",
+    "usage": "resume",
+    "action": "Resumes currently paused track."
+  },
+  {
+    "name": "geoip",
+    "type": "Normal",
+    "usage": "geoip [arg:IP|website]",
+    "action": "Get geographic information about an IP."
+  },
+  {
+    "name": "nowplaying",
+    "type": "Music",
+    "usage": "nowplaying",
+    "action": "Tells what track is currently playing."
+  },
+  {
+    "name": "kickvoice",
+    "type": "Bc",
+    "usage": "kickvoice <arg:string-username> [arg:string-reason]",
+    "action": "Kick a user from a voice channel."
+  },
+  {
+    "name": "restart",
+    "type": "Music",
+    "usage": "restart",
+    "action": "Restarts a currently playing track."
+  },
+  {
+    "name": "restartbot",
+    "type": "Owner",
+    "usage": "restartbot",
+    "action": "Restarts the bot."
+  },
+  {
+    "name": "clear",
+    "type": "Music",
+    "usage": "clear",
+    "action": "Clear the queue."
+  },
+  {
+    "name": "trivia",
+    "type": "Normal",
+    "usage": "trivia <easy|medium|hard|random> [int:seconds]",
+    "action": "Answer a trivia question!"
+  },
+  {
+    "name": "say",
+    "type": "Bc",
+    "usage": "say <arg:string>",
+    "action": "Make the bot say something."
+  },
+  {
+    "name": "emojilist",
+    "type": "Normal",
+    "usage": "emojilist",
+    "action": "Lists all emojis for the guild."
+  },
+  {
+    "name": "selfinfo",
+    "type": "Normal",
+    "usage": "selfinfo",
+    "action": "Get information about yourself on Discord."
+  },
+  {
+    "name": "emojieval",
+    "type": "Normal",
+    "usage": "emojieval <arg:emoji>",
+    "action": "Evaluate an emoji."
+  },
+  {
+    "name": "uptime",
+    "type": "Normal",
+    "usage": "uptime",
+    "action": "View the bot's uptime."
+  },
+  {
+    "name": "help",
+    "type": "Normal",
+    "usage": "help <arg:string-command_name>",
+    "action": "Get help for a specific command."
+  },
+  {
+    "name": "listcommands",
+    "type": "Normal",
+    "usage": "listcommands",
+    "action": "List all custom commands for the server."
+  },
+  {
+    "name": "toromannum",
+    "type": "Normal",
+    "usage": "toromannum <arg:int>",
+    "action": "Turn an integer to a roman numeral."
+  },
+  {
+    "name": "8ball",
+    "type": "Normal",
+    "usage": "8ball [arg:int]",
+    "action": "Roll a Magic 8-Ball™"
+  },
+  {
+    "name": "listbannedmusic",
+    "type": "Bc",
+    "usage": "listbannedmusic",
+    "action": "Shows all users banned for using music on the server."
+  },
+  {
+    "name": "rps",
+    "type": "Normal",
+    "usage": "rps <arg:r|p|s>",
+    "action": "Play the classic Rock, Paper, Scissors with Tidal Bot"
+  },
+  {
+    "name": "prune",
+    "type": "Bc",
+    "usage": "prune <arg:int>",
+    "action": "Prune an amount of messages."
+  },
+  {
+    "name": "deletecommand",
+    "type": "Bc",
+    "usage": "deletecommand <arg:string-command name>",
+    "action": "Delete a custom command for your server that was previously added."
+  },
+  {
+    "name": "togglear",
+    "type": "Bc",
+    "usage": "togglear",
+    "action": "Toggles Tidal Bot's Auto Response."
+  },
+  {
+    "name": "lmgtfy",
+    "type": "Normal",
+    "usage": "lmgtfy <arg:string>",
+    "action": "Let me Google that for you."
+  },
+  {
+    "name": "pplay",
+    "type": "Music",
+    "usage": "pplay <playlist url>",
+    "action": "Plays a playlist from a url."
+  },
+  {
+    "name": "shuffle",
+    "type": "Music",
+    "usage": "shuffle [int]",
+    "action": "Shuffle the current queue."
+  },
+  {
+    "name": "slap",
+    "type": "Normal",
+    "usage": "slap <arg:string>",
+    "action": "Slap someone."
+  },
+  {
+    "name": "queue",
+    "type": "Music",
+    "usage": "queue",
+    "action": "Shows current queue."
+  },
+  {
+    "name": "guildinfo",
+    "type": "Normal",
+    "usage": "guildinfo",
+    "action": "Get information about a guild you're in on Discord."
+  }
+]

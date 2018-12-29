@@ -1,0 +1,79 @@
+:root {
+  --color-primary-0: #3f3f3e;
+  --color-primary-1: #0a355c;
+  --color-primary-2: #5598cd;
+  --color-primary-3: #7b91a6;
+  --color-primary-4: #0696ff;
+}
+
+::-moz-selection {
+background:var(--color-primary-0);
+}
+::selection {
+background:var(--color-primary-0);
+}
+
+.navbar .brand a:hover {
+	color:var(--color-primary-2);
+}
+
+ul#menu-main > li > a:hover {
+	color: var(--color-primary-2);
+}
+
+
+ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.selected, ul#menu-main li a.selected:active    {
+	color: var(--color-primary-4);
+}
+#header-wrapper h1 span {
+	color:var(--color-primary-4);
+}
+
+#header-wrapper input[type=submit] {
+	background: var(--color-primary-4) !important;
+}
+
+#theme-form input[type=submit] {
+	background: var(--color-primary-4) !important;
+}
+
+.btn.btn-theme {
+	background: var(--color-primary-4) !important;
+}
+
+/* blog */
+.home-post .post-meta {
+	background: var(--color-primary-4);
+}
+
+/* com */
+.tabbable ul.nav-tabs li.active a,.tabbable ul.nav-tabs li a:hover {
+	color: #1BAC91;
+}
+.accordion .accordion-heading a.active {
+	color: #1BAC91;
+}
+
+#tweet ul li a {
+	color: #1BAC91;
+}
+
+
+/* works */
+#filters ul li a:hover h5, #filters ul li a.active h5 {
+	background: var(--color-primary-2);
+	border-color: var(--color-primary-0);
+}
+
+.portfolio .portfolio-overlay {
+	background: var(--color-primary-2);
+}
+
+/* icon */
+i.icon-bgdark:hover {
+	background: #26c8aa;
+}
+
+i.icon-bgdark.active {
+	background: #e06d5e;
+}

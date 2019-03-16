@@ -26,8 +26,8 @@
   {
     "name": "poll",
     "type": "Normal",
-    "usage": "poll <arg:string>",
-    "action": "Ask a 2 option poll."
+    "usage": "poll <question:string> [:: <answer:string>...to 5]",
+    "action": "Ask a poll, can be yes/no or multiple choice to 5"
   },
   {
     "name": "disabledcommands",
@@ -58,18 +58,6 @@
     "type": "Normal",
     "usage": "mixeruser <arg:string>",
     "action": "Get information about a user on Mixer."
-  },
-  {
-    "name": "numtoword",
-    "type": "Normal",
-    "usage": "numtoword <arg:int>",
-    "action": "Coverts a number to words."
-  },
-  {
-    "name": "bark",
-    "type": "Normal",
-    "usage": "bark",
-    "action": "Bark, bark, bark."
   },
   {
     "name": "leave",
@@ -156,18 +144,6 @@
     "action": "Flip an imaginary coin."
   },
   {
-    "name": "fizzbuzz",
-    "type": "Normal",
-    "usage": "fizzbuzz <arg:int>",
-    "action": "Fizzbuzz!"
-  },
-  {
-    "name": "patreon",
-    "type": "Normal",
-    "usage": "patreon",
-    "action": "Support MiningMark48 on Patreon! ...or not."
-  },
-  {
     "name": "togglenpmessages",
     "type": "Bc",
     "usage": "togglenpmessages",
@@ -178,12 +154,6 @@
     "type": "Bc",
     "usage": "announce <arg:string>",
     "action": "Announces a message to the channel."
-  },
-  {
-    "name": "tobinary",
-    "type": "Normal",
-    "usage": "tobinary <arg:int>",
-    "action": "Convert a number to binary."
   },
   {
     "name": "splay",

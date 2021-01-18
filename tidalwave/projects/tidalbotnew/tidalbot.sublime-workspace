@@ -1,0 +1,885 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Retr",
+				"Return"
+			],
+			[
+				"t",
+				"triggers"
+			],
+			[
+				"re",
+				"responses"
+			],
+			[
+				"fale",
+				"false"
+			],
+			[
+				"magnet",
+				"magnet_durability_diamond"
+			],
+			[
+				"color",
+				"colorgenerator"
+			],
+			[
+				"entr",
+				"entryColors"
+			],
+			[
+				"crea",
+				"createMenus"
+			],
+			[
+				"st",
+				"statshandler"
+			],
+			[
+				"tex",
+				"textformatter"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"tit",
+				"totalTime"
+			],
+			[
+				"en",
+				"entries"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"ent",
+				"entries"
+			],
+			[
+				"ma",
+				"mainWindow"
+			],
+			[
+				"web",
+				"webContents"
+			],
+			[
+				"load",
+				"loadFile"
+			],
+			[
+				"table",
+				"table-head-background-color"
+			],
+			[
+				"tab",
+				"table-body-background-color"
+			],
+			[
+				"bod",
+				"body-font-color"
+			],
+			[
+				"enty",
+				"entryIDs"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"elect",
+				"electron-builder"
+			],
+			[
+				"ele",
+				"electron-builder"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"export",
+				"exportType"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"pie",
+				"pie_doughnut"
+			],
+			[
+				"pe",
+				"pie_doughnut"
+			],
+			[
+				"chartOne",
+				"chartOne"
+			],
+			[
+				"cha",
+				"chartTwoAct"
+			],
+			[
+				"chartT",
+				"chartType"
+			],
+			[
+				"chart",
+				"chart_type_two"
+			],
+			[
+				"tes",
+				"testEntryID"
+			],
+			[
+				"upda",
+				"updateTable"
+			],
+			[
+				"entry",
+				"entryIDDelete"
+			],
+			[
+				"remov",
+				"removeEntry"
+			],
+			[
+				"show",
+				"show-context-menu"
+			],
+			[
+				"con",
+				"contextmenu"
+			],
+			[
+				"in",
+				"interval"
+			],
+			[
+				"charts",
+				"refreshCharts"
+			],
+			[
+				"up",
+				"updateTable"
+			],
+			[
+				"data",
+				"datahandler"
+			],
+			[
+				"pre",
+				"preferences"
+			],
+			[
+				"prev",
+				"previousCSS"
+			],
+			[
+				"timer",
+				"timerClock"
+			],
+			[
+				"time",
+				"timerClock"
+			],
+			[
+				"css",
+				"cssFile"
+			],
+			[
+				"new",
+				"newLink"
+			],
+			[
+				"upd",
+				"updatePrefs"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"char",
+				"chart_refresh"
+			],
+			[
+				"ch",
+				"chart_refresh"
+			],
+			[
+				"app",
+				"appIcon"
+			],
+			[
+				"icon",
+				"iconPath"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"elec",
+				"electron-packager"
+			],
+			[
+				"is",
+				"isPaused"
+			],
+			[
+				"sort",
+				"sortTable"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"rend",
+				"renderPieChart"
+			],
+			[
+				"ab",
+				"aboutDialogWindow"
+			],
+			[
+				"get",
+				"getRandomColor"
+			],
+			[
+				"piechart",
+				"pieChartAct"
+			],
+			[
+				"pieChart",
+				"pieChartAct"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"toolti",
+				"tooltimeItem"
+			],
+			[
+				"to",
+				"toHHMMSS"
+			],
+			[
+				"padin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"render",
+				"renderChart"
+			],
+			[
+				"tabl",
+				"tablesorter"
+			],
+			[
+				"na",
+				"naStr"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"displa",
+				"display_case"
+			],
+			[
+				"comp",
+				"component_base"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"h",
+				"https"
+			],
+			[
+				"stim",
+				"stimulator_charge"
+			],
+			[
+				"house",
+				"house_one"
+			],
+			[
+				"col",
+				"col-md-4"
+			],
+			[
+				"mart",
+				"margin-right"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"audi",
+				"audio_stfu"
+			],
+			[
+				"audio",
+				"audio_button"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"sty",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bar",
+				"barn_one"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"colla",
+				"collapse-epdm"
+			],
+			[
+				"emai",
+				"email_body"
+			],
+			[
+				"main",
+				"main-footer"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"light",
+				"lightning-additions"
+			],
+			[
+				"dimensional",
+				"dimensional-ores"
+			],
+			[
+				"pearc",
+				"pearcel-mod"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sr",
+				"sr-contact"
+			],
+			[
+				"fa-",
+				"fa-3x"
+			],
+			[
+				"misc",
+				"miscconfigs"
+			],
+			[
+				"proje",
+				"projects"
+			],
+			[
+				"Min",
+				"MiningMark48"
+			],
+			[
+				"do",
+				"documentElement"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"sc",
+				"scrollPoint"
+			],
+			[
+				"scro",
+				"scrollFunction"
+			],
+			[
+				"scoll",
+				"scrollFunction"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"project",
+				"project-infobox"
+			],
+			[
+				"cre",
+				"credits"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"link",
+				"link-dark"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Re",
+				"Return"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8487,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoHotkey/AutoHotkey.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 138.0,
+		"history":
+		[
+			"npm start",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Programming/Github Pages/miningmark48.github.io/tidalwave/projects/tidalbotnew",
+		"/F/Programming/Github Pages/miningmark48.github.io/tidalwave/projects/tidalbotnew/vendor",
+		"/F/Programming/Github Pages/miningmark48.github.io/tidalwave/projects/tidalbotnew/vendor/bootstrap",
+		"/F/Programming/Github Pages/miningmark48.github.io/tidalwave/projects/tidalbotnew/vendor/bootstrap/css"
+	],
+	"file_history":
+	[
+		"/F/Programming/Github Pages/miningmark48.github.io/tidalwave/projects/tidalbotnew/css/stylish-portfolio.css",
+		"/F/Programming/Github Pages/miningmark48.github.io/tidalwave/projects/tidalbotnew/vendor/bootstrap/css/bootstrap.css",
+		"/F/Programming/Github Pages/miningmark48.github.io/tidalwave/projects/tidalbot/index.html",
+		"/F/Programming/AutoHotkey Scripts/sound_device_switcher.ahk",
+		"/F/Programming/AutoHotkey Scripts/games/gtav.ahk",
+		"/F/Programming/Github Pages/miningmark48.github.io/tidalwave/projects/tidalbotnew/css/stylish-portfolio.min.css",
+		"/C/Users/Mark/Downloads/gta_tweaks.ahk",
+		"/F/Programming/AutoHotkey Scripts/games/lester_caller_cody.ahk",
+		"/F/Utility/Misc/Macros/test.pam",
+		"/F/Utility/2ndKeyboard/2nd keyboard if using luamacros.ahk",
+		"/F/Utility/2ndKeyboard/keypressed.txt",
+		"/F/Programming/AutoHotkey Scripts/music.ahk",
+		"/F/Programming/Arduino/Sketches/StarWars_buzzer/StarWars_buzzer.ino",
+		"/F/Programming/AutoHotkey Scripts/lester_caller.ahk",
+		"/F/Utility/2ndKeyboard/SECOND KEYBOARD script for LUA MACROS.lua",
+		"/F/Programming/AutoHotkey Scripts/dice_rolls.ahk",
+		"/F/Programming/AutoHotkey Scripts/aliases.ahk",
+		"/F/Programming/Python/TidalBot/commands.json",
+		"/F/Pictures/Programs/Cricut/thomas/stickers.txt",
+		"/F/Programming/AutoHotkey Scripts/GDTBABK.ahk",
+		"/F/Programming/AutoHotkey Scripts/repeat_shift.ahk",
+		"/F/Programming/AutoHotkey Scripts/TestGui.ahk",
+		"/C/Users/Mark/AppData/Local/Temp/scp08555/home/mark/tidalbot_python/user_configs.json",
+		"/F/Programming/Python/TidalBot/server_configs.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp05568/home/mark/tidalbot_python/server_configs.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp06936/home/mark/tidalbot_python/tags.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp15861/home/mark/tidalbot_python/nohup.out",
+		"/F/Programming/Python/TidalBot/user_configs.json",
+		"/F/Programming/Python/TidalBot/tags.json",
+		"/F/Programming/Python/TidalBot/servinfo.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp10069/home/mark/tidalbot_python/server_configs.json",
+		"/C/Users/Mark/Downloads/JEchangelog.txt",
+		"/F/Programming/Python/TidalBot/config.json",
+		"/C/Users/Mark/Downloads/run.bat",
+		"/F/Backup Codes/twitter.txt",
+		"/E/README.txt",
+		"/C/Users/Mark/AppData/Local/Temp/scp07361/home/mark/tidalbot_python/config.json",
+		"/C/Users/Mark/Downloads/carbon-config (1).json",
+		"/C/Users/Mark/Downloads/carbon-config.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp31565/home/mark/nohup.out",
+		"/C/Users/Mark/AppData/Local/Temp/scp30308/home/mark/tidalbot_python/nohup.out",
+		"/F/Programming/Python/DiscordBots/MsgHisBot/filter/quotes.txt",
+		"/F/Backup Codes/stellarport.txt",
+		"/F/Dark-Theme-92/ReadMe.txt",
+		"/C/Users/Mark/AppData/Roaming/GIMP/2.10/plug-ins/plugin-heal-selection.py",
+		"/F/Programming/Python/TidalBot/backups/050620/tags.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp02257/home/mark/tidalbot_python/config.json",
+		"/F/Programming/Python/TidalBot/docs/conf.py",
+		"/F/Programming/Python/TidalBot/docs/index.rst",
+		"/C/Users/Mark/AppData/Local/Temp/scp11006/home/mark/nohup.out",
+		"/C/Users/Mark/AppData/Local/Temp/scp11604/home/mark/tidalbot_python/nohup.out",
+		"/F/Programming/Python/TidalBot/docs/make.bat",
+		"/C/Users/Mark/AppData/Local/Temp/scp51641/home/mark/nohup.out",
+		"/C/Users/Mark/Desktop/testing/entries_04-30-2020.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp51243/home/mark/tidalbot_python/nohup.out",
+		"/C/Users/Mark/AppData/Roaming/tidal-time-track/logs/log.log",
+		"/C/Users/Mark/AppData/Roaming/Factorio/mods/mod-list.json",
+		"/F/Programming/Python/Manim/Test/manim/example_scenes.py",
+		"/F/Programming/Python/DiscordBots/MsgHisBot/bot.py",
+		"/F/Programming/Python/DiscordBots/MsgHisBot/data/general.txt",
+		"/F/Programming/Python/DiscordBots/MsgHisBot/data/the-office.txt",
+		"/F/Programming/Python/Manim/Test/manim/requirements.txt",
+		"/F/Programming/Python/DiscordBots/MsgHisBot/data/ttt-discussion.txt",
+		"/F/Programming/Python/WebCrawler/games/data/games_pc.txt",
+		"/F/Programming/Python/Oratio/messages/lists/games.txt",
+		"/F/Programming/Python/WebCrawler/crawler.py",
+		"/F/Programming/Python/WebCrawler/games/backend.py",
+		"/F/Programming/Python/WebCrawler/games/PCCrawler.py",
+		"/F/Programming/Python/DiscordBots/MsgHisBot/data/office-v4-archive.txt",
+		"/F/Programming/Python/WebCrawler/backend_nl.py",
+		"/F/Programming/Python/DiscordBots/MsgHisBot/data/covid-19-updates.txt",
+		"/F/Programming/Python/DiscordBots/MsgHisBot/data/office-v2-archive.txt",
+		"/F/Programming/Python/Oratio/messages/0_actions.json",
+		"/F/Programming/Python/Oratio/messages/1_help.json",
+		"/F/Programming/Python/Oratio/messages/chat_topics.json",
+		"/F/Programming/Python/Oratio/messages/feelings.json",
+		"/F/Programming/Python/Oratio/messages/general_chat.json",
+		"/F/Programming/Python/Oratio/messages/misc.json",
+		"/F/Programming/Python/Oratio/config.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp20072/home/mark/oratio_python/user_configs.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp20177/home/mark/oratio_python/config.json",
+		"/F/Programming/Python/Oratio/messages/creeper_lyrics.json",
+		"/F/Programming/Python/Oratio/servinfo.json",
+		"/F/Programming/Python/Oratio/messages/lists/colors.txt",
+		"/F/Programming/Python/Oratio/user_configs.json",
+		"/F/Programming/Python/Oratio/server_configs.json",
+		"/F/Programming/Python/Oratio/messages/lists/movies.txt",
+		"/F/Programming/Python/TidalBot/backups/server_configs.json",
+		"/F/Programming/Python/TidalBot/lists.json",
+		"/F/Programming/Python/TidalBot/backups/lists.json",
+		"/F/Programming/Python/TidalBot/lavalink/application.yml",
+		"/F/Programming/Python/TidalBot/lavalink/jb/application.yml",
+		"/C/Users/Mark/AppData/Local/Temp/scp56616/home/mark/nohup.out",
+		"/C/Users/Mark/AppData/Local/Temp/scp41202/home/mark/nohup.out",
+		"/C/Users/Mark/AppData/Local/Temp/scp52540/home/mark/lavalink/lavaplayer-1.1.36.jar",
+		"/C/Users/Mark/AppData/Local/Temp/scp48745/home/mark/lavalink/application.yml",
+		"/C/Users/Mark/AppData/Local/Temp/scp59558/home/mark/nohup.out",
+		"/C/Users/Mark/AppData/Local/Temp/scp49572/home/mark/tidalbot_python/nohup.out",
+		"/F/Programming/Python/TidalBot/command_blacklist.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp36053/home/mark/tidalbot_python/tags.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp12010/home/mark/tidalbot_python/lists.json",
+		"/C/Users/Mark/Desktop/Dark_Hunter Server Alert Draft.txt",
+		"/F/Documents/Pixar - Worst to Best.txt",
+		"/C/Users/Mark/AppData/Local/Temp/scp10306/home/mark/tidalbot_python/requirements.txt",
+		"/C/Users/Mark/AppData/Local/Temp/scp28410/home/mark/coronabot/config.json",
+		"/F/Programming/Python/CoronaBot/regex.txt",
+		"/F/Programming/Python/TidalBot/cogs/requirements.txt",
+		"/C/Users/Mark/AppData/Local/Temp/scp12618/home/mark/nohup.out",
+		"/C/Users/Mark/AppData/Local/Temp/scp35521/home/mark/coronabot/bot.py",
+		"/C/Users/Mark/AppData/Local/Temp/scp14208/home/mark/tidalbot_python/config.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp20691/home/mark/tidalbot_python/user_configs.json",
+		"/C/Users/Mark/AppData/Local/Temp/scp47783/home/mark/nohup.out",
+		"/C/Users/Mark/AppData/Local/Temp/scp01108/home/mark/tidalbot_python/server_configs.json",
+		"/F/Programming/Python/DiscordBots/QuoteBot/qb.py",
+		"/F/Programming/Python/DiscordBots/QuoteBot/config.json",
+		"/C/Users/Mark/Downloads/crash-2020-04-01_04.47.28-server.txt",
+		"/F/Programming/Electron/StockInfo/main.js",
+		"/F/Programming/Electron/StockInfo/index.html",
+		"/F/Programming/Python/TidalBot/requirements.txt",
+		"/C/Users/Mark/Desktop/testing/New folder/IMPORT.json",
+		"/C/Users/Mark/Desktop/testing/New folder/custom3.json",
+		"/C/Users/Mark/Desktop/testing/New folder/entries_04-09-2019.txt",
+		"/C/Users/Mark/Desktop/testing/New folder/entries_04-12-2019.json",
+		"/C/Users/Mark/Desktop/testing/New folder/entries_05-30-2019.json",
+		"/C/Users/Mark/Desktop/testing/New folder/entries_06-01-2019.csv",
+		"/C/Users/Mark/Desktop/testing/New folder/IMPORT2.json",
+		"/C/Users/Mark/Desktop/testing/New folder/PhotoshopEditing.json",
+		"/C/Users/Mark/Desktop/testing/New folder/custom.json"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"33, 37",
+			"212529",
+			"color",
+			"SoundBeep, ",
+			"const int ",
+			"Return"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Beep(",
+			"note_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4956,
+								4956
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1928.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/electron.sublime-build",
+	"project": "tidalbot.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

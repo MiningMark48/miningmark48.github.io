@@ -5,13 +5,8 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="MiningMark48's personal website.">
-    <meta name="author" content="MiningMark48">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="http://miningmark48.xyz">
-    <meta name="twitter:title" content="MiningMark48">
-    <meta name="twitter:description" content="MiningMark48's personal website.">
-    <meta name="theme-color" content="#a2f000">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
     <title>MiningMark48</title>
 
@@ -19,259 +14,291 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-
-    <!-- Plugin CSS -->
-    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/9e1477a36f.js" crossorigin="anonymous"></script>
 
     <!-- Custom styles for this template -->
-    <link href="css/creative.css" rel="stylesheet">
-
-    <!--<script src="https://widget.battleforthenet.com/widget.js" async></script>-->
-
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-5031527674471014",
-        enable_page_level_ads: true
-      });
-    </script>
+    <link href="css/resume.css" rel="stylesheet">
 
   </head>
 
-  <body id="page-top" onload="scrollFunction()">
+  <body id="page-top">
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-      <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">MiningMark48</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
-            </li>
-          </ul>
-        </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Start Bootstrap</span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/logo.png" alt="">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
+          </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+          </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#">Tidal Wave</a>
+          </li> -->
+        </ul>
       </div>
     </nav>
 
-    <header class="masthead">
-      <div class="header-content">
-        <div class="header-content-inner">
-          <img src="./img/logo/logo_noBG.png" width="350">
-          <!-- <h1 id="homeHeading">MiningMark48</h1>
-            <hr>
-            <p>
-              Minecraft Modder. Programmer.
-            </p>
-            -->
-        </div>
-      </div>
-    </header>
+    <div class="container-fluid p-0">
 
-    <section class="bg-primary" id="about">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-black">About</h2>
-            <hr class="dark">
-            <p class="text-faded">
-              I am a mod developer that has made several Minecraft mods such as <a href="./projects/pearcelmod/" class="link-light">Pearcel Mod</a>, <a href="./projects/dimensionalores/" class="link-light">Dimensional Ores</a>, and <a href="./projects/more/#prefixation/" class="link-light">Prefixation</a>. I also have a couple utilities, <a href="./projects/mcjsongen/" class="link-light">Minecraft JSON Generator</a> and <a href="./projects/tidalbot/" class="link-light">Tidal Bot</a>.
-            </p>
-            <hr class="light">
-            <p class="text-faded">
-              I do all modding with my team, <a href="./tidalwave" class="link-light">Tidal Wave</a> with two others.
-              I am currently in partnership with <a href="https://nodecraft.com" class="link-light">NodeCraft</a>, <a href="https://forum.resonantri.se/" class="link-light">Resonant Rise</a>, and <a href="https://discordapp.com/hypesquad?ref=De4qfORe6X" class="link-light">Discord Hypesquad</a>.
-            </p>
-          </div>
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+          <h1 class="text-primary">Mining<span class="text-secondary">Mark</span>48</h1>
+          <!-- <div class="subheading mb-5">
+            Cheyenne Wells, CO 80810 · (317) 585-8468 ·
+            <a href="mailto:name@email.com">name@email.com</a>
+          </div> -->
+          <p class="mb-5">I try to be a programmer, sometimes I make spaghetti instead.</p>
+          <ul class="list-inline list-social-icons mb-0">
+            <!-- <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li> -->
+            <li class="list-inline-item">
+              <a href="https://twitter.com/miningmark48">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <!-- <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li> -->
+            <li class="list-inline-item">
+              <a href="https://github.com/miningmark48">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://discord.gg/SMCEXw5">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
         </div>
-      </div>
-    </section>
+      </section>
 
-    <section class="p-0" id="projects">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Projects</h2>
-            <hr class="primary">
-          </div>
-        </div>
-      </div>
-      <div class="container-fluid">
-        <div class="row no-gutter">
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="https://minecraft.curseforge.com/projects/mininglib">
-              <img class="img-fluid" src="img/projects/mining_lib.png" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Minecraft Mod
-                  </div>
-                  <div class="project-name">
-                    MiningLib
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="https://minecraft.curseforge.com/projects/pearcel-mod">
-              <img class="img-fluid" src="img/projects/pearcel_mod.png" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Minecraft Mod
-                  </div>
-                  <div class="project-name">
-                    Pearcel Mod
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="https://minecraft.curseforge.com/projects/dimensional-ores">
-              <img class="img-fluid" src="img/projects/dimensional_ores.png" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Minecraft Mod
-                  </div>
-                  <div class="project-name">
-                    Dimensional Ores
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="https://minecraft.curseforge.com/projects/compressed-base">
-              <img class="img-fluid" src="img/projects/compressed_base.png" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Minecraft Mod
-                  </div>
-                  <div class="project-name">
-                    Compressed Base
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-            <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="./tidalwave/projects/tidalbot">
-              <img class="img-fluid" src="img/projects/tidal_bot.png" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Utility
-                  </div>
-                  <div class="project-name">
-                    Tidal Bot
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="./projects/mcjsongen">
-              <img class="img-fluid" src="img/projects/json_gen.png" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Utility
-                  </div>
-                  <div class="project-name">
-                    Minecraft JSON Generator
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </section>
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
+        <div class="my-auto">
+          <h2 class="mb-5">Projects</h2>
 
-    <div class="call-to-action bg-dark">
-      <div class="container text-center">
-        <a class="btn btn-default btn-xl sr-button" href="./projects/more">View More</a>
-      </div>
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Tidal Bot</h3>
+              <div class="subheading mb-3">Discord Bot</div>
+              <p>Tidal Bot is a personal bot for <a href="#">Discord</a> written in Python using <a href="#">discord.py</a> that serves the needs of the <a href="#">Tidal Waves</a>.</p>
+              <ul class="list-inline list-social-icons mb-0">
+                <li class="list-inline-item">
+                  <a href="https://github.com/miningmark48/tidal-bot">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">February 2020 - Present</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Eventus</h3>
+              <div class="subheading mb-3">Discord Bot</div>
+              <p>Eventus is a bot for Discord written in Python using <a href="#">discord.py</a> that cycles the server image for special events and holidays.</p>
+              <ul class="list-inline list-social-icons mb-0">
+                <li class="list-inline-item">
+                  <a href="https://github.com/miningmark48/eventus">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">February 2020 - Present</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Tiered Magnets</h3>
+              <div class="subheading mb-3">Minecraft Mod</div>
+              <p>Tiered Magnets is a mod that adds tiered magnets to better your Minecraft experience by allowing the player to pull in items and experience at range with ease.</p>
+              <ul class="list-inline list-social-icons mb-0">
+                <li class="list-inline-item">
+                  <a href="https://github.com/miningmark48/tiered-magnets">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.curseforge.com/minecraft/mc-mods/tiered-magnets">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fas fa-cube fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">July 2019 - Present</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Pearcel Mod</h3>
+              <div class="subheading mb-3">Minecraft Mod</div>
+              <p>Pearcel Mod is a mod made by MiningMark48 and Codyrule040 that focuses on random items and gadgets around the... Pearcel!</p>
+              <ul class="list-inline list-social-icons mb-0">
+                <li class="list-inline-item">
+                  <a href="https://github.com/miningmark48/pearcel-mod">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.curseforge.com/minecraft/mc-mods/pearcel-mod">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fas fa-cube fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">February 2015 - October 2018</span>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+        <div class="my-auto">
+          <h2 class="mb-5">Skills</h2>
+
+          <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+          <ul class="list-inline list-icons">
+            <li class="list-inline-item">
+              <i class="devicons devicons-html5"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-css3"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-javascript"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-jquery"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-sass"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-less"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-bootstrap"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-wordpress"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-grunt"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-gulp"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-npm"></i>
+            </li>
+          </ul>
+
+          <div class="subheading mb-3">Workflow</div>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Mobile-First, Responsive Design</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Cross Browser Testing &amp; Debugging</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Cross Functional Teams</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Agile Development &amp; Scrum</li>
+          </ul>
+        </div>
+      </section> -->
+
+      <footer class="footer mt-auto py-3 bg-light">
+        <div class="container">
+          <p>You've reached the bottom!</p>
+
+          <!-- <div class="form-check form-switch">
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckChecked" disabled>
+            <label class="form-check-label" for="flexSwitchCheckChecked">Dark Mode</label>
+          </div> -->
+        </div>
+      </footer>
+
     </div>
-
-    <section id="contact">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">Need to contact me?</h2>
-            <hr class="primary">
-            <p>
-              If you need to reach me, contact me at one of the following services below. I'll try to get back at you as soon I as can! FYI, Discord is the best method.
-            </p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-4 ml-auto text-center">
-            <i class="fa fa-envelope fa-3x sr-contact"></i>
-            <h5>Email</h5>
-            <p>
-              <a class="link-dark">miningmark48 <code> at </code>gmail <code> dot </code> com</a>
-            </p>
-          </div>
-          <div class="col-lg-4 mr-auto text-center">
-            <i class="fa fa-comment fa-3x sr-contact"></i>
-            <h5>Discord</h5>
-            <a href="./discord" class="link-dark">MiningMark48#6817</a>
-          </div>
-          <div class="col-lg-4 mr-auto text-center">
-            <i class="fa fa-twitter fa-3x sr-contact"></i>
-            <h5>Twitter</h5>
-            <p>
-              <a href="https://twitter.com/miningmark48" class="link-dark">@miningmark48</a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <a id="top-btn" href="#header" style="display: none" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
-      <div class="container btn-floating-scroll">
-        <i class="fa fa-arrow-up"></i>
-      </div>
-    </a>
-
-    <footer class="footer">
-      <div class="container">
-        <span class="text-muted">Copyright © MiningMark48 2019</span>
-      </div>
-    </footer>
-    
-
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/popper/popper.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
-    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="js/creative.min.js"></script>
-    <script type="text/javascript" src="./js/scroll_to_top_button.js"></script>
+    <script src="js/resume.min.js"></script>
 
   </body>
 

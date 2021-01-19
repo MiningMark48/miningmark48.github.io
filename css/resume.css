@@ -33,6 +33,15 @@ h2 {
   font-size: 3.5rem;
 }
 
+footer {
+  color: #adb5bd;
+  background-color: #1c1e1f;
+}
+
+.cursor-point {
+  cursor: pointer;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;

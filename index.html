@@ -5,8 +5,16 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="I try to be a programmer, sometimes I make spaghetti instead.">
+    <meta name="author" content="MiningMark48">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="https://miningmark48.github.io">
+    <meta name="twitter:title" content="MiningMark48">
+    <meta name="twitter:description" content="I try to be a programmer, sometimes I make spaghetti instead.">
+    <meta name="twitter:image" content="https://miningmark48.github.io/img/logo.png">
+    <meta name="twitter:site" content="@miningmark48">
+    <meta name="twitter:creator" content="@miningmark48">
 
     <title>MiningMark48</title>
 
@@ -49,9 +57,9 @@
           <!-- <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
           </li> -->
-          <!-- <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#">Tidal Wave</a>
-          </li> -->
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/tw">Tidal Wave</a>
+          </li>
         </ul>
       </div>
     </nav>
@@ -60,7 +68,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-          <h1 class="text-primary">Mining<span class="text-secondary">Mark</span>48</h1>
+          <h1 class="text-primary">Mining<span class="text-secondary"><a onclick="egg_himark()" class="cursor-point">Mark</a></span>48</h1>
           <!-- <div class="subheading mb-5">
             Cheyenne Wells, CO 80810 · (317) 585-8468 ·
             <a href="mailto:name@email.com">name@email.com</a>
@@ -139,9 +147,11 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Tidal Bot</h3>
-              <div class="subheading mb-3">Discord Bot</div>
+              <div class="subheading mb-3">
+                <span class="badge badge-primary badge-pill">Discord Bot</span>
+              </div>
               <p>Tidal Bot is a personal bot for <a href="https://discord.com/">Discord</a> written in Python using <a href="https://github.com/Rapptz/discord.py">discord.py</a> that serves the needs of the <a href="https://discord.gg/SMCEXw5">Tidal Waves</a>.</p>
-              <ul class="list-inline list-social-icons mb-0">
+              <ul class="list-inline list-social-icons mb-2">
                 <li class="list-inline-item">
                   <a href="https://github.com/miningmark48/tidal-bot">
                     <span class="fa-stack fa-lg">
@@ -160,7 +170,9 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Eventus</h3>
-              <div class="subheading mb-3">Discord Bot</div>
+              <div class="subheading mb-3">
+                <span class="badge badge-primary badge-pill">Discord Bot</span>
+              </div>
               <p>Eventus is a bot for <a href="https://discord.com/">Discord</a> written in Python using <a href="https://github.com/Rapptz/discord.py">discord.py</a> that cycles the server image for special events and holidays.</p>
               <ul class="list-inline list-social-icons mb-0">
                 <li class="list-inline-item">
@@ -181,7 +193,9 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Tiered Magnets</h3>
-              <div class="subheading mb-3">Minecraft Mod</div>
+              <div class="subheading mb-3">
+                <span class="badge badge-success badge-pill">Minecraft Mod</span>
+              </div>
               <p>Tiered Magnets is a mod that adds tiered magnets to better your Minecraft experience by allowing the player to pull in items and experience at range with ease.</p>
               <ul class="list-inline list-social-icons mb-0">
                 <li class="list-inline-item">
@@ -210,7 +224,9 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Pearcel Mod</h3>
-              <div class="subheading mb-3">Minecraft Mod</div>
+              <div class="subheading mb-3">
+                <span class="badge badge-success badge-pill">Minecraft Mod</span>
+              </div>
               <p>Pearcel Mod is a mod made by MiningMark48 and Codyrule040 that focuses on random items and gadgets around the... Pearcel!</p>
               <ul class="list-inline list-social-icons mb-0">
                 <li class="list-inline-item">
@@ -232,7 +248,7 @@
               </ul>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">February 2015 - October 2018</span>
+              <span class="text-primary"><a onclick="egg_pearcelmod()" class="cursor-point">February 2015 - October 2018</a></span>
             </div>
           </div>
 
@@ -300,8 +316,8 @@
 
       <footer class="footer mt-auto py-3">
         <div class="container">
-          <p>You've reached the bottom!</p>
-          <p><a href="https://usebootstrap.com/theme/resume-bootstrap4-master">Resume</a> theme provided by <a href="https://usebootstrap.com/">UseBootstrap</a>.</p>
+          <p class="mb-2">You've reached the <a onclick="egg_rr()" class="cursor-point">bottom!</a></p>
+          <!-- <p><a href="https://usebootstrap.com/theme/resume-bootstrap4-master">Resume</a> template/theme provided by <a href="https://usebootstrap.com/">UseBootstrap</a>.</p> -->
 
           <!-- <div class="form-check form-switch">
             <input class="form-check-input" type="checkbox" id="flexSwitchCheckChecked" disabled>
@@ -321,6 +337,8 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/resume.min.js"></script>
+
+    <script src="js/eggs.js"></script>
 
   </body>
 

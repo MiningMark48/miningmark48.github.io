@@ -1,5 +1,5 @@
 function egg_himark(){
-	window.location.replace("https://www.youtube.com/watch?v=aekfPU0SwNw");
+	window.open("https://www.youtube.com/watch?v=aekfPU0SwNw");
 }
 
 function egg_pearcelmod(){
@@ -7,5 +7,5 @@ function egg_pearcelmod(){
 }
 
 function egg_rr(){
-	window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+	window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
 }

@@ -6,9 +6,16 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+@mixin default-body {
+  color: $gray-500;
+  background-color: #1c1e1f;
+}
+
 @mixin body-font {
   font-family: 'Open Sans', serif;
 }
+
 @mixin heading-font {
   font-family: 'Saira Extra Condensed', serif;
 }

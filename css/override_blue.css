@@ -160,10 +160,6 @@ section.resume-section .resume-item .resume-date {
   background-color: #28a745 !important;
 }
 
-.card {
-  background-color: #343a40;
-}
-
 .footer {
   color: #adb5bd;
   background-color: #1c1e1f;
@@ -185,4 +181,4 @@ a {
 a:hover, a:focus, a:active {
   color: #19692c;
 }
-/*# sourceMappingURL=resume.css.map */
+/*# sourceMappingURL=override_blue.css.map */
